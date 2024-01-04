@@ -1,12 +1,12 @@
 ### Hi there, I'm Christa 👋
 
-## Something here
 - 🔭 I’m currently working on building a freelance website for Deep Roots Farm!
 - 🌱 I’m currently learning web design to improve the user experience of the web applications I develop
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Before becoming interested in web/software development, I had planned to pursue a Ph.D. in Anthropology!
 
 [![Christa's GitHub stats](https://github-readme-stats.vercel.app/api?username=christadkelly&hide=stars&show=prs_merged&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christadkelly&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
