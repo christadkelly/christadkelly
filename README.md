@@ -6,7 +6,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Before becoming interested in web/software development, I had planned to pursue a Ph.D. in Anthropology!
 
-[![Christa's GitHub stats](https://github-readme-stats.vercel.app/api?username=christadkelly)](https://github.com/anuraghazra/github-readme-stats)
+[![Christa's GitHub stats](https://github-readme-stats.vercel.app/api?username=christadkelly&hide=stars&show=prs_merged&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
