@@ -5,7 +5,12 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Before becoming interested in web/software development, I had planned to pursue a Ph.D. in Anthropology!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flask,nodejs,py,react,sass)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,flask,nodejs,py,react,sass" />
+  </a>
+</p>
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flask,nodejs,py,react,sass)](https://skillicons.dev) -->
 
 [![Christa's GitHub stats](https://github-readme-stats.vercel.app/api?username=christadkelly&hide=stars&show=prs_merged&show_icons=true&theme=react&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christadkelly&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
