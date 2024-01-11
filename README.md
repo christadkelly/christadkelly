@@ -1,9 +1,12 @@
-### Hi there, I'm Christa 👋
+# Hi there, I'm Christa 👋
 
 - 🔭 I’m currently working on building a freelance website for Deep Roots Farm!
 - 🌱 I’m currently learning web design to improve the user experience of the web applications I develop
+- I'm looking to collaborate on any science or educational projects (especially educational games!)
+- I'm looking for help with anything that will challenge me or help me grow as a developer
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Before becoming interested in web/software development, I had planned to pursue a Ph.D. in Anthropology!
+- ⚡ Fun fact: Before becoming interested in web/software development, I had planned to pursue a Ph.D. in Anthropology! My speciality was going to be teeth - feel free to ask me about it!
+- Find me on LinkedIn! [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christadkelly/)
 
 <div align="center">
 
