@@ -7,13 +7,18 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,react,nodejs,py,flask,postgres,bootstrap,sass,css,figma,jest,bash,git)](https://skillicons.dev)
+## 💻 My Tech Stack:
+
+[![JavaScript, HTML, React, Node.js, Python, Flask, Postgress, Bootstrap, Sass, Css, Figma, Jest, Bash, Git](https://skillicons.dev/icons?i=js,html,react,nodejs,py,flask,postgres,bootstrap,sass,css,figma,jest,bash,git)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=christadkelly&hide=stars&show=prs_merged&show_icons=true&theme=react&hide_rank=true" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christadkelly&layout=donut&theme=react" />&nbsp;&nbsp;
+</p>
 
 </div>
-
-
-[![Christa's GitHub stats](https://github-readme-stats.vercel.app/api?username=christadkelly&hide=stars&show=prs_merged&show_icons=true&theme=react&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christadkelly&layout=donut&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
