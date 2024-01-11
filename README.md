@@ -6,7 +6,7 @@
 - I'm looking for help with anything that will challenge me or help me grow as a developer
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Before becoming interested in web/software development, I had planned to pursue a Ph.D. in Anthropology! My speciality was going to be teeth - feel free to ask me about it!
-- Find me on LinkedIn! [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/christadkelly/)
+- Find me on [LinkedIn](https://www.linkedin.com/in/christadkelly/)
 
 <div align="center">
 
