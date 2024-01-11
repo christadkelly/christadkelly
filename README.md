@@ -17,8 +17,8 @@
 ## 🏆 My Stats:
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=christadkelly&hide=stars&show=prs_merged&show_icons=true&theme=react&hide_rank=true" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christadkelly&layout=donut&theme=react" />&nbsp;&nbsp;
+    <img height=250 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=christadkelly&hide=stars&show=prs_merged&show_icons=true&theme=react&hide_rank=true" />&nbsp;&nbsp;
+    <img height=250 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christadkelly&layout=donut&theme=react" />&nbsp;&nbsp;
 </p>
 
 </div>
