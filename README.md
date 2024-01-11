@@ -7,9 +7,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,flask,nodejs,py,react,sass" />
+    <img src="https://skillicons.dev/icons?i=js,html,react,nodejs,py,flask,postgres,bootstrap,sass,css,figma,jest,bash,git" />
   </a>
 </p>
+
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,flask,nodejs,py,react,sass)](https://skillicons.dev) -->
 
 [![Christa's GitHub stats](https://github-readme-stats.vercel.app/api?username=christadkelly&hide=stars&show=prs_merged&show_icons=true&theme=react&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
